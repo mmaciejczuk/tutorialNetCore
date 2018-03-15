@@ -18,9 +18,16 @@ namespace Evento.Api.Controllers
         [HttpGet]
         public async Task<IActionResult> Get(string name)
         {
-            var events = await _eventService.BrowseAsync(name);
-            return Json(events);
+            var @events = await _eventService.BrowseAsync(name);
+            return Json(@events);
         }
+
+        [HttpGet("{eventId}")]
+        public async Task<IActionResult> Get(Guid eventId)
+        {
+            var @events = await _eventService.GetAsync(eventId);
+            return Json(@events);
+        }        
 
         [HttpPost]
         public async Task<IActionResult> Post([FromBody]CreateEvent command)
@@ -41,6 +48,14 @@ namespace Evento.Api.Controllers
             await _eventService.UpdateAsync(eventId, command.Name, command.Description);            
             //return - 204
             return NoContent();
-        }        
+        } 
+
+        [HttpDelete("{eventId}")]
+        public async Task<IActionResult> Delete(Guid eventId)
+        {
+            await _eventService.DeleteAsync(eventId);            
+            //return - 204
+            return NoContent();
+        }   
     }
 }
