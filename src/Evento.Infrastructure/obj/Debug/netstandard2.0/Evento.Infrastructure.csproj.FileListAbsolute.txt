@@ -8,3 +8,13 @@ C:\Code\StrefaKursowNetCore\src\Evento.Infrastructure\obj\Debug\netstandard2.0\E
 C:\Code\StrefaKursowNetCore\src\Evento.Infrastructure\obj\Debug\netstandard2.0\Evento.Infrastructure.AssemblyInfo.cs
 C:\Code\StrefaKursowNetCore\src\Evento.Infrastructure\obj\Debug\netstandard2.0\Evento.Infrastructure.dll
 C:\Code\StrefaKursowNetCore\src\Evento.Infrastructure\obj\Debug\netstandard2.0\Evento.Infrastructure.pdb
+C:\_GIT\StrefaKursowNetCore\src\Evento.Infrastructure\obj\Debug\netstandard2.0\Evento.Infrastructure.csproj.CoreCompileInputs.cache
+C:\_GIT\StrefaKursowNetCore\src\Evento.Infrastructure\obj\Debug\netstandard2.0\Evento.Infrastructure.AssemblyInfoInputs.cache
+C:\_GIT\StrefaKursowNetCore\src\Evento.Infrastructure\obj\Debug\netstandard2.0\Evento.Infrastructure.AssemblyInfo.cs
+C:\_GIT\StrefaKursowNetCore\src\Evento.Infrastructure\obj\Debug\netstandard2.0\Evento.Infrastructure.dll
+C:\_GIT\StrefaKursowNetCore\src\Evento.Infrastructure\obj\Debug\netstandard2.0\Evento.Infrastructure.pdb
+C:\_GIT\StrefaKursowNetCore\src\Evento.Infrastructure\bin\Debug\netstandard2.0\Evento.Infrastructure.deps.json
+C:\_GIT\StrefaKursowNetCore\src\Evento.Infrastructure\bin\Debug\netstandard2.0\Evento.Infrastructure.dll
+C:\_GIT\StrefaKursowNetCore\src\Evento.Infrastructure\bin\Debug\netstandard2.0\Evento.Infrastructure.pdb
+C:\_GIT\StrefaKursowNetCore\src\Evento.Infrastructure\bin\Debug\netstandard2.0\Evento.Core.dll
+C:\_GIT\StrefaKursowNetCore\src\Evento.Infrastructure\bin\Debug\netstandard2.0\Evento.Core.pdb
