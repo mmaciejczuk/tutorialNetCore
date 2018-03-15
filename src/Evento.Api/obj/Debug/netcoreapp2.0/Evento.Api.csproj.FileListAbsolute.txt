@@ -1,0 +1,14 @@
+C:\Code\StrefaKursowNetCore\src\Evento.Api\bin\Debug\netcoreapp2.0\Evento.Api.deps.json
+C:\Code\StrefaKursowNetCore\src\Evento.Api\bin\Debug\netcoreapp2.0\Evento.Api.runtimeconfig.json
+C:\Code\StrefaKursowNetCore\src\Evento.Api\bin\Debug\netcoreapp2.0\Evento.Api.runtimeconfig.dev.json
+C:\Code\StrefaKursowNetCore\src\Evento.Api\bin\Debug\netcoreapp2.0\Evento.Api.dll
+C:\Code\StrefaKursowNetCore\src\Evento.Api\bin\Debug\netcoreapp2.0\Evento.Api.pdb
+C:\Code\StrefaKursowNetCore\src\Evento.Api\bin\Debug\netcoreapp2.0\Evento.Core.dll
+C:\Code\StrefaKursowNetCore\src\Evento.Api\bin\Debug\netcoreapp2.0\Evento.Infrastructure.dll
+C:\Code\StrefaKursowNetCore\src\Evento.Api\bin\Debug\netcoreapp2.0\Evento.Infrastructure.pdb
+C:\Code\StrefaKursowNetCore\src\Evento.Api\bin\Debug\netcoreapp2.0\Evento.Core.pdb
+C:\Code\StrefaKursowNetCore\src\Evento.Api\obj\Debug\netcoreapp2.0\Evento.Api.csproj.CoreCompileInputs.cache
+C:\Code\StrefaKursowNetCore\src\Evento.Api\obj\Debug\netcoreapp2.0\Evento.Api.AssemblyInfoInputs.cache
+C:\Code\StrefaKursowNetCore\src\Evento.Api\obj\Debug\netcoreapp2.0\Evento.Api.AssemblyInfo.cs
+C:\Code\StrefaKursowNetCore\src\Evento.Api\obj\Debug\netcoreapp2.0\Evento.Api.dll
+C:\Code\StrefaKursowNetCore\src\Evento.Api\obj\Debug\netcoreapp2.0\Evento.Api.pdb

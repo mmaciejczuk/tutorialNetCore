@@ -1,0 +1,10 @@
+C:\Code\StrefaKursowNetCore\src\Evento.Infrastructure\bin\Debug\netstandard2.0\Evento.Infrastructure.deps.json
+C:\Code\StrefaKursowNetCore\src\Evento.Infrastructure\bin\Debug\netstandard2.0\Evento.Infrastructure.dll
+C:\Code\StrefaKursowNetCore\src\Evento.Infrastructure\bin\Debug\netstandard2.0\Evento.Infrastructure.pdb
+C:\Code\StrefaKursowNetCore\src\Evento.Infrastructure\bin\Debug\netstandard2.0\Evento.Core.dll
+C:\Code\StrefaKursowNetCore\src\Evento.Infrastructure\bin\Debug\netstandard2.0\Evento.Core.pdb
+C:\Code\StrefaKursowNetCore\src\Evento.Infrastructure\obj\Debug\netstandard2.0\Evento.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Code\StrefaKursowNetCore\src\Evento.Infrastructure\obj\Debug\netstandard2.0\Evento.Infrastructure.AssemblyInfoInputs.cache
+C:\Code\StrefaKursowNetCore\src\Evento.Infrastructure\obj\Debug\netstandard2.0\Evento.Infrastructure.AssemblyInfo.cs
+C:\Code\StrefaKursowNetCore\src\Evento.Infrastructure\obj\Debug\netstandard2.0\Evento.Infrastructure.dll
+C:\Code\StrefaKursowNetCore\src\Evento.Infrastructure\obj\Debug\netstandard2.0\Evento.Infrastructure.pdb
