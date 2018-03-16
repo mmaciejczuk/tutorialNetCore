@@ -11,17 +11,10 @@
           "lib/netstandard1.0/_._": {}
         }
       },
-      "Microsoft.Packaging.Tools/1.0.0-preview2-25401-01": {
-        "type": "package",
-        "build": {
-          "build/Microsoft.Packaging.Tools.targets": {}
-        }
-      },
-      "NETStandard.Library/2.0.0-preview2-25401-01": {
+      "NETStandard.Library/2.0.0": {
         "type": "package",
         "dependencies": {
-          "Microsoft.NETCore.Platforms": "1.1.0",
-          "Microsoft.Packaging.Tools": "1.0.0-preview2-25401-01"
+          "Microsoft.NETCore.Platforms": "1.1.0"
         },
         "compile": {
           "lib/netstandard1.0/_._": {}
@@ -49,28 +42,10 @@
         "runtime.json"
       ]
     },
-    "Microsoft.Packaging.Tools/1.0.0-preview2-25401-01": {
-      "sha512": "rmziYNoVI7x1cfzckl8lno1+KMxs6x7M+Crrx/Wp081Jdhd5CJSlYRmHr7hLYaQ+PgeeeXD9L+M4LnYZIqLx6g==",
+    "NETStandard.Library/2.0.0": {
+      "sha512": "7jnbRU+L08FXKMxqUflxEXtVymWvNOrS8yHgu9s6EM8Anr6T/wIX4nZ08j/u3Asz+tCufp3YVwFSEvFTPYmBPA==",
       "type": "package",
-      "path": "microsoft.packaging.tools/1.0.0-preview2-25401-01",
-      "files": [
-        "LICENSE.TXT",
-        "THIRD-PARTY-NOTICES.TXT",
-        "build/Microsoft.Packaging.Tools.Tasks.dll",
-        "build/Microsoft.Packaging.Tools.targets",
-        "build/System.Collections.Immutable.dll",
-        "build/System.Reflection.Metadata.dll",
-        "build/desktop/Microsoft.Packaging.Tools.Tasks.dll",
-        "build/desktop/System.Collections.Immutable.dll",
-        "build/desktop/System.Reflection.Metadata.dll",
-        "microsoft.packaging.tools.1.0.0-preview2-25401-01.nupkg.sha512",
-        "microsoft.packaging.tools.nuspec"
-      ]
-    },
-    "NETStandard.Library/2.0.0-preview2-25401-01": {
-      "sha512": "n/jEiW7fMWP9ZNkk6BhH8hIqeOKQpzo8o/ZqDT3N3nMTroPaA8cTlGxrh9amVeK84l+K+dCjUVXJSvNYlxLG1g==",
-      "type": "package",
-      "path": "netstandard.library/2.0.0-preview2-25401-01",
+      "path": "netstandard.library/2.0.0",
       "files": [
         "LICENSE.TXT",
         "THIRD-PARTY-NOTICES.TXT",
@@ -189,31 +164,36 @@
         "build/netstandard2.0/ref/System.dll",
         "build/netstandard2.0/ref/mscorlib.dll",
         "build/netstandard2.0/ref/netstandard.dll",
+        "build/netstandard2.0/ref/netstandard.xml",
         "lib/netstandard1.0/_._",
-        "netstandard.library.2.0.0-preview2-25401-01.nupkg.sha512",
+        "netstandard.library.2.0.0.nupkg.sha512",
         "netstandard.library.nuspec"
       ]
     }
   },
   "projectFileDependencyGroups": {
     ".NETStandard,Version=v2.0": [
-      "NETStandard.Library >= 2.0.0-preview2-25401-01"
+      "NETStandard.Library >= 2.0.0"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\mariusz\\.nuget\\packages\\": {}
+    "C:\\Users\\mariusz.maciejczuk\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\_GIT\\StrefaKursowNetCore\\src\\Evento.Core\\Evento.Core.csproj",
+      "projectUniqueName": "c:\\Code\\StrefaKursowNetCore\\src\\Evento.Core\\Evento.Core.csproj",
       "projectName": "Evento.Core",
-      "projectPath": "C:\\_GIT\\StrefaKursowNetCore\\src\\Evento.Core\\Evento.Core.csproj",
-      "packagesPath": "C:\\Users\\mariusz\\.nuget\\packages\\",
-      "outputPath": "C:\\_GIT\\StrefaKursowNetCore\\src\\Evento.Core\\obj\\",
+      "projectPath": "c:\\Code\\StrefaKursowNetCore\\src\\Evento.Core\\Evento.Core.csproj",
+      "packagesPath": "C:\\Users\\mariusz.maciejczuk\\.nuget\\packages\\",
+      "outputPath": "c:\\Code\\StrefaKursowNetCore\\src\\Evento.Core\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "C:\\Users\\mariusz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\mariusz.maciejczuk\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -221,8 +201,9 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Users\\mariusz\\.dotnet\\NuGetFallbackFolder": {},
-        "https://api.nuget.org/v3/index.json": {}
+        "C:\\Users\\mariusz.maciejczuk\\.dotnet\\NuGetFallbackFolder": {},
+        "https://api.nuget.org/v3/index.json": {},
+        "https://dotnet.myget.org/F/aspnetcore-ci-dev/api/v3/index.json": {}
       },
       "frameworks": {
         "netstandard2.0": {
@@ -241,7 +222,7 @@
           "NETStandard.Library": {
             "suppressParent": "All",
             "target": "Package",
-            "version": "2.0.0-preview2-25401-01",
+            "version": "2.0.0",
             "autoReferenced": true
           }
         },

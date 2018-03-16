@@ -28,3 +28,5 @@ C:\_GIT\StrefaKursowNetCore\src\Evento.Api\obj\Debug\netcoreapp2.0\Evento.Api.As
 C:\_GIT\StrefaKursowNetCore\src\Evento.Api\obj\Debug\netcoreapp2.0\Evento.Api.AssemblyInfo.cs
 C:\_GIT\StrefaKursowNetCore\src\Evento.Api\bin\Debug\netcoreapp2.0\x86\e_sqlite3.dll
 C:\_GIT\StrefaKursowNetCore\src\Evento.Api\bin\Debug\netcoreapp2.0\x64\e_sqlite3.dll
+C:\Code\strefakursownetcore\src\Evento.Api\bin\Debug\netcoreapp2.0\x86\e_sqlite3.dll
+C:\Code\strefakursownetcore\src\Evento.Api\bin\Debug\netcoreapp2.0\x64\e_sqlite3.dll

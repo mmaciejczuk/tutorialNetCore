@@ -1,7 +1,7 @@
 {
   "runtimeTarget": {
     "name": ".NETStandard,Version=v2.0/",
-    "signature": "dee6449aebf01c1ebacef7cb0f8393fe031c41e5"
+    "signature": "b9453c66895a5376f9d669d0b4cb2dc17f157215"
   },
   "compilationOptions": {},
   "targets": {
@@ -11,7 +11,7 @@
         "dependencies": {
           "AutoMapper": "6.2.2",
           "Evento.Core": "1.0.0",
-          "NETStandard.Library": "2.0.0-preview2-25401-01"
+          "NETStandard.Library": "2.0.0"
         },
         "runtime": {
           "Evento.Infrastructure.dll": {}
@@ -20,7 +20,7 @@
       "AutoMapper/6.2.2": {
         "dependencies": {
           "Microsoft.CSharp": "4.3.0",
-          "NETStandard.Library": "2.0.0-preview2-25401-01",
+          "NETStandard.Library": "2.0.0",
           "System.Collections.Concurrent": "4.3.0",
           "System.Collections.Specialized": "4.3.0",
           "System.ComponentModel.TypeConverter": "4.3.0",
@@ -60,11 +60,9 @@
       },
       "Microsoft.NETCore.Platforms/1.1.0": {},
       "Microsoft.NETCore.Targets/1.1.0": {},
-      "Microsoft.Packaging.Tools/1.0.0-preview2-25401-01": {},
-      "NETStandard.Library/2.0.0-preview2-25401-01": {
+      "NETStandard.Library/2.0.0": {
         "dependencies": {
-          "Microsoft.NETCore.Platforms": "1.1.0",
-          "Microsoft.Packaging.Tools": "1.0.0-preview2-25401-01"
+          "Microsoft.NETCore.Platforms": "1.1.0"
         }
       },
       "System.Collections/4.3.0": {
@@ -473,19 +471,12 @@
       "path": "microsoft.netcore.targets/1.1.0",
       "hashPath": "microsoft.netcore.targets.1.1.0.nupkg.sha512"
     },
-    "Microsoft.Packaging.Tools/1.0.0-preview2-25401-01": {
+    "NETStandard.Library/2.0.0": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-rmziYNoVI7x1cfzckl8lno1+KMxs6x7M+Crrx/Wp081Jdhd5CJSlYRmHr7hLYaQ+PgeeeXD9L+M4LnYZIqLx6g==",
-      "path": "microsoft.packaging.tools/1.0.0-preview2-25401-01",
-      "hashPath": "microsoft.packaging.tools.1.0.0-preview2-25401-01.nupkg.sha512"
-    },
-    "NETStandard.Library/2.0.0-preview2-25401-01": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-n/jEiW7fMWP9ZNkk6BhH8hIqeOKQpzo8o/ZqDT3N3nMTroPaA8cTlGxrh9amVeK84l+K+dCjUVXJSvNYlxLG1g==",
-      "path": "netstandard.library/2.0.0-preview2-25401-01",
-      "hashPath": "netstandard.library.2.0.0-preview2-25401-01.nupkg.sha512"
+      "sha512": "sha512-7jnbRU+L08FXKMxqUflxEXtVymWvNOrS8yHgu9s6EM8Anr6T/wIX4nZ08j/u3Asz+tCufp3YVwFSEvFTPYmBPA==",
+      "path": "netstandard.library/2.0.0",
+      "hashPath": "netstandard.library.2.0.0.nupkg.sha512"
     },
     "System.Collections/4.3.0": {
       "type": "package",
