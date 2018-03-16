@@ -5890,11 +5890,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Code\\StrefaKursowNetCore\\src\\Evento.Infrastructure\\Evento.Infrastructure.csproj",
+      "projectUniqueName": "C:\\Code\\StrefaKursowNetCore\\src\\Evento.Infrastructure\\Evento.Infrastructure.csproj",
       "projectName": "Evento.Infrastructure",
-      "projectPath": "c:\\Code\\StrefaKursowNetCore\\src\\Evento.Infrastructure\\Evento.Infrastructure.csproj",
+      "projectPath": "C:\\Code\\StrefaKursowNetCore\\src\\Evento.Infrastructure\\Evento.Infrastructure.csproj",
       "packagesPath": "C:\\Users\\mariusz.maciejczuk\\.nuget\\packages\\",
-      "outputPath": "c:\\Code\\StrefaKursowNetCore\\src\\Evento.Infrastructure\\obj\\",
+      "outputPath": "C:\\Code\\StrefaKursowNetCore\\src\\Evento.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5915,8 +5915,8 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "c:\\Code\\StrefaKursowNetCore\\src\\Evento.Core\\Evento.Core.csproj": {
-              "projectPath": "c:\\Code\\StrefaKursowNetCore\\src\\Evento.Core\\Evento.Core.csproj"
+            "C:\\Code\\StrefaKursowNetCore\\src\\Evento.Core\\Evento.Core.csproj": {
+              "projectPath": "C:\\Code\\StrefaKursowNetCore\\src\\Evento.Core\\Evento.Core.csproj"
             }
           }
         }

@@ -12990,11 +12990,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Code\\StrefaKursowNetCore\\src\\Evento.Api\\Evento.Api.csproj",
+      "projectUniqueName": "C:\\Code\\StrefaKursowNetCore\\src\\Evento.Api\\Evento.Api.csproj",
       "projectName": "Evento.Api",
-      "projectPath": "c:\\Code\\StrefaKursowNetCore\\src\\Evento.Api\\Evento.Api.csproj",
+      "projectPath": "C:\\Code\\StrefaKursowNetCore\\src\\Evento.Api\\Evento.Api.csproj",
       "packagesPath": "C:\\Users\\mariusz.maciejczuk\\.nuget\\packages\\",
-      "outputPath": "c:\\Code\\StrefaKursowNetCore\\src\\Evento.Api\\obj\\",
+      "outputPath": "C:\\Code\\StrefaKursowNetCore\\src\\Evento.Api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -13015,8 +13015,8 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "c:\\Code\\StrefaKursowNetCore\\src\\Evento.Infrastructure\\Evento.Infrastructure.csproj": {
-              "projectPath": "c:\\Code\\StrefaKursowNetCore\\src\\Evento.Infrastructure\\Evento.Infrastructure.csproj"
+            "C:\\Code\\StrefaKursowNetCore\\src\\Evento.Infrastructure\\Evento.Infrastructure.csproj": {
+              "projectPath": "C:\\Code\\StrefaKursowNetCore\\src\\Evento.Infrastructure\\Evento.Infrastructure.csproj"
             }
           }
         }

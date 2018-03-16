@@ -64,7 +64,8 @@ namespace Evento.Api
             {
                 app.UseDeveloperExceptionPage();
             }
-
+            
+            app.UseAuthentication();
             app.UseMvc();
         }
     }

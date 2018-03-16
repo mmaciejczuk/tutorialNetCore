@@ -183,11 +183,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Code\\StrefaKursowNetCore\\src\\Evento.Core\\Evento.Core.csproj",
+      "projectUniqueName": "C:\\Code\\StrefaKursowNetCore\\src\\Evento.Core\\Evento.Core.csproj",
       "projectName": "Evento.Core",
-      "projectPath": "c:\\Code\\StrefaKursowNetCore\\src\\Evento.Core\\Evento.Core.csproj",
+      "projectPath": "C:\\Code\\StrefaKursowNetCore\\src\\Evento.Core\\Evento.Core.csproj",
       "packagesPath": "C:\\Users\\mariusz.maciejczuk\\.nuget\\packages\\",
-      "outputPath": "c:\\Code\\StrefaKursowNetCore\\src\\Evento.Core\\obj\\",
+      "outputPath": "C:\\Code\\StrefaKursowNetCore\\src\\Evento.Core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
